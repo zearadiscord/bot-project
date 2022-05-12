@@ -686,7 +686,6 @@ InteractionClient(client)
 
 
 
-client.load_extension('config.cog.music')
 
 
 
